@@ -1,6 +1,8 @@
 # Art Inspired Fashion - High Resolution
 ### Master Thesis - Started: 18.07.2018
 
+![Alt text](resources/high_rec_comparison_all.jpg?raw=true "")
+
 ## Instructions
 
 - Install required dependencies from requirements.txt
