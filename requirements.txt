@@ -40,7 +40,7 @@ nbconvert==5.4.0
 nbformat==4.4.0
 networkx==2.0
 notebook==5.7.0
-numpy==1.13.3
+numpy==1.22.0
 olefile==0.44
 opencv-contrib-python==3.4.2.16
 opencv-python==3.4.2.16
